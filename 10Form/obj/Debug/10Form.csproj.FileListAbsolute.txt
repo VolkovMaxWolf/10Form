@@ -1,0 +1,10 @@
+D:\Wolf\10Form\10Form\bin\Debug\10Form.exe.config
+D:\Wolf\10Form\10Form\bin\Debug\10Form.exe
+D:\Wolf\10Form\10Form\bin\Debug\10Form.pdb
+D:\Wolf\10Form\10Form\obj\Debug\10Form.csprojAssemblyReference.cache
+D:\Wolf\10Form\10Form\obj\Debug\_10Form.Form1.resources
+D:\Wolf\10Form\10Form\obj\Debug\_10Form.Properties.Resources.resources
+D:\Wolf\10Form\10Form\obj\Debug\10Form.csproj.GenerateResource.cache
+D:\Wolf\10Form\10Form\obj\Debug\10Form.csproj.CoreCompileInputs.cache
+D:\Wolf\10Form\10Form\obj\Debug\10Form.exe
+D:\Wolf\10Form\10Form\obj\Debug\10Form.pdb
